@@ -1,3 +1,2 @@
-# PythonbyAbhilash
+Course 1:  Introduction To the pandas
 
-Day 1: Data Type variables
